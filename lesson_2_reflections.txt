@@ -14,3 +14,6 @@ When you are building out a feature that does not need to be incorporated in to 
 
 How do the diagrams help you visualize the branch structure?
 They show the path the branches take and allow you to immediately see which branches are accessible and which aren't. They also give a good visual reprensetation of how many commits have been performed while working on a branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches results in one branch that contains changes from both.
