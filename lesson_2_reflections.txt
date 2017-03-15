@@ -17,3 +17,6 @@ They show the path the branches take and allow you to immediately see which bran
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 Merging two branches results in one branch that contains changes from both.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic mergin saves a lot of time. Doing them manually means you will seldom merge incorrect code, but will take a lot more time.
