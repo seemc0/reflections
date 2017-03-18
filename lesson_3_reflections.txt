@@ -1,1 +1,6 @@
 
+Questions from lesson 3 have disappeared?
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+GitHub could overwrite changes you've made if you automatically pull from the remote.
