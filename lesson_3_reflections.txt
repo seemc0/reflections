@@ -12,4 +12,6 @@ What is the benefit of having a copy of the last known state of the remote store
 You are able to work offline
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
-Probably using DropBox or email. The entire process would be a little easier for beginners, but there would be very littel automated version control. Instead, you would have to keep backups of files that have been updated. Labourious!
+Probably using DropBox or email. The entire process would be a little easier for beginners, but there would be very little automated version control. Instead, you would have to keep backups of files that have been updated. Labourious!
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have? Branches allow the collaborator to make experimental or feature changes without affecting the master branch. Working on a branch means that there are fewer risks when making changes, where working directly on the master branch is highly risky as you can introduce bugs. It is, however, faster to make changes directly to the master branch.
