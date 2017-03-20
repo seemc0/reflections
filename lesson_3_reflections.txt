@@ -7,3 +7,7 @@ GitHub could overwrite changes you've made if you automatically pull from the re
 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Forks are a GitHub function that clones a repository on GitHub. A clone makes an exact copy of a repository, either locally or remotely (e.g. on GitHub). A branch is a parallel version of a project, but part of one repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You are able to work offline
+
